@@ -3,8 +3,6 @@ MAINTAINER Nils Andreas Svee <me@lochnair.net>
 
 # Set environment variable defaults
 ENV AMP_MODULE "Minecraft"
-ENV AMP_INSTANCE_NAME "Default"
-ENV AMP_IP "0.0.0.0"
 ENV AMP_PORT "8080"
 ENV AMP_LICENSE "<INSERT_KEY_HERE>"
 ENV AMP_PASSWORD "Changeme123"
