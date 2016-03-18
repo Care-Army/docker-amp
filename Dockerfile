@@ -41,4 +41,4 @@ COPY start_amp.sh /home/amp/start_amp.sh
 
 VOLUME /home/amp
 
-CMD ["./start_amp.sh"]
+CMD ["./amp"]
