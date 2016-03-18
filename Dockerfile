@@ -37,7 +37,7 @@ USER amp
 RUN unzip ampinstmgr.zip
 
 # Copy AMP wrapper script
-COPY start_amp.sh /home/amp/start_amp.sh
+COPY amp /home/amp/amp
 
 VOLUME /home/amp
 
